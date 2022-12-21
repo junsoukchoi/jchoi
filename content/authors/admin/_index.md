@@ -14,7 +14,7 @@ role: Ph.D. Student in Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Statistics, Texas A&M University
+  - name: Department of Statistics, // Texas A&M University
     url: https://stat.tamu.edu/
 
 # Short bio (displayed in user profile at end of posts)
