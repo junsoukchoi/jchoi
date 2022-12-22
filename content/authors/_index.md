@@ -6,6 +6,6 @@ _build:
   render: never
 cascade:
   _build:
-    render: never
+    render: true
     list: always
 ---
