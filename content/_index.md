@@ -31,11 +31,13 @@ sections:
           company_url: ''
           date_start: '2018-08-01'
           date_end: ''
+          description: advised by Prof. Yang Ni
         - title: M.S. in Statistics
           company: Korea University
           company_url: ''
           date_start: '2016-08-01'
           date_end: '2018-07-31'
+          description: advised by Prof. Ja-Yong Koo
         - title: B.S. in Statistics and B.S. in Economics
           company: Korea University
           company_url: ''
