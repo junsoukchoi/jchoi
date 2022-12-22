@@ -37,7 +37,7 @@ sections:
           date_start: '2016-08-01'
           date_end: '2018-07-31'
         - title: B.S. in Statistics and B.S. in Economics
-          company: Korea University0
+          company: Korea University
           company_url: ''
           date_start: '2010-03-01'
           date_end: '2016-07-31'
@@ -72,7 +72,7 @@ sections:
         postcode: '77843'
         country: United States
         country_code: US
-      directions: Office: BLOC 406F
+      directions: Office 406F, John R. Blocker Building
     design:
       columns: '2'
 ---
