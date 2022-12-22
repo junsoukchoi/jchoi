@@ -13,7 +13,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text: aaa
       design:
-      columns: '2'
+        columns: '2'
   - block: features
     content:
       title: Skills
