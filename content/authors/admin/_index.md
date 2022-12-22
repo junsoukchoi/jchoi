@@ -31,7 +31,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-superuser: false
+superuser: true
 last_name: Choi
 highlight_name: true
 first_name: Junsouk
