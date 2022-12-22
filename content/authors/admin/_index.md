@@ -11,9 +11,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=gKUQoEIAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/junsoukchoi/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/junsouk-choi-439547192/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
