@@ -44,11 +44,12 @@ first_name: Junsouk
 email: ""
 ---
 
+<div align="left">
+ 
+## About Me
 
 My primary goal as a researcher is to develop statistical and machine learning methodologies that are motivated by challenges arising in the analysis of modern biomedical, genetic, and omics data. To achieve this goal, I strive to develop rigorous theory and computational tools for statistical inference on such datasets. I also enjoy collaborating with domain scientists in wide areas of sciences, including biological, medical and health sciences, as someone who believes that challenging applied problems give birth to improved statistical methods, which in turn promotes scientific discovery.
 {style="text-align: justify;"}
-
-<div align="left">
  
 ### Interests
 - aaa
