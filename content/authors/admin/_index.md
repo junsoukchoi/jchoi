@@ -6,7 +6,7 @@ bio: My research interests include distributed robotics, mobile computing and
 social:
   - icon: envelope
     icon_pack: fas
-    link: #contact
+    link: '/#contact'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=gKUQoEIAAAAJ&hl=en&oi=ao
