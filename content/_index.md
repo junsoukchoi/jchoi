@@ -29,16 +29,18 @@ sections:
         - title: Ph.D. in Statistics
           company: Texas A&M University
           company_url: ''
-          date_start: '2018-08-02'
+          date_start: '2018-08-01'
           date_end: ''
         - title: M.S. in Statistics
           company: Korea University
           company_url: ''
-          date_end: '2018-08-01'
+          date_start: '2016-08-01'
+          date_end: '2018-07-31'
         - title: B.S. in Statistics and B.S. in Economics
           company: Korea University
           company_url: ''
-          date_end: '2016-08-01'
+          date_start: '2010-03-01'
+          date_end: '2016-07-31'
     design:
       columns: '2'
   - block: collection
