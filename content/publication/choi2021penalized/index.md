@@ -1,11 +1,10 @@
 ---
-title: "An example journal article"
+title: "Penalized I-spline Monotone Regression Estimation"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- JungJun Lee
+- Jae-Hwan Jhong
+- Ja-Yong Koo
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -19,23 +18,20 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Communications in Statistics - Simulation and Computation*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: We propose a penalized regression spline estimator for monotone regression. To construct the estimator, we adopt the I-splines with the total variation penalty. The I-splines lend themselves to the monotonicity because of the simpler form of restrictions, and the total variation penalty induces a data-driven knot selection scheme. A coordinate descent algorithm is developed for the estimator. If the number of complexity parameter candidates sufficiently increases, the algorithm considers all possible monotone linear spline fits to the given data. The pruning process of the algorithm not only provides numerical stability, but also implements the data-driven knot selection. We also compute the maximum candidate of the complexity parameter to facilitate complexity parameter selection. Extensive numerical studies show that the proposed estimator captures spatially inhomogeneous behaviors of data, such as sudden jumps.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://www.tandfonline.com/doi/abs/10.1080/03610918.2019.1630433'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -62,15 +58,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
