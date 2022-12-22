@@ -14,7 +14,7 @@ sections:
       text:
       design:
         columns: '2'
-  - block: education
+  - block: experience
     content:
       title: Education
       # Date format for experience
