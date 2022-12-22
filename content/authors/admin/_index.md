@@ -1,8 +1,7 @@
 ---
 title: Junsouk Choi
 role: Ph.D. Student in Statistics
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include .
 social:
   - icon: envelope
     icon_pack: fas
