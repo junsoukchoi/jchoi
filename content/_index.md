@@ -93,13 +93,13 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: jchoi@stat.tamu.edu
       address:
-        street: Department of Statistics, Texas A&M University, 3143 TAMU
+        street: BLOC 406F, 3143 TAMU
         city: College Station
         region: CA
         postcode: '77843'
         country: United States
         country_code: US
-      directions: Office 406F, John R. Blocker Building
+      directions: Enter the John R. Blocker Building and take the stairs to Floor 4
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
