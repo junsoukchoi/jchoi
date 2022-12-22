@@ -5,7 +5,7 @@ authors:
 - JungJun Lee
 - Jae-Hwan Jhong
 - Ja-Yong Koo
-date: "2021"
+date: "2021-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
