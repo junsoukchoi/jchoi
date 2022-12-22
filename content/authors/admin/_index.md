@@ -14,7 +14,7 @@ role: Ph.D. Student in Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Statistics, \ aTexas A&M University
+  - name: Texas A&M University
     url: https://stat.tamu.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,6 +25,7 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - dsklfjal;fkja;lsd
 
 # Education to show in About widget
 education:
@@ -49,7 +50,7 @@ social:
     link: '/#contact'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/junsoukchoi/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
