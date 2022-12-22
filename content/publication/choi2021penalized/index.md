@@ -5,7 +5,7 @@ authors:
 - JungJun Lee
 - Jae-Hwan Jhong
 - Ja-Yong Koo
-date: "2021-01-01T00:00:00Z"
+date: "2021-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Communications in Statistics - Simulation and Computation*"
+publication: "*Communications in Statistics - Simulation and Computation*, 50(11), 3714-3732"
 publication_short: ""
 
 abstract: We propose a penalized regression spline estimator for monotone regression. To construct the estimator, we adopt the I-splines with the total variation penalty. The I-splines lend themselves to the monotonicity because of the simpler form of restrictions, and the total variation penalty induces a data-driven knot selection scheme. A coordinate descent algorithm is developed for the estimator. If the number of complexity parameter candidates sufficiently increases, the algorithm considers all possible monotone linear spline fits to the given data. The pruning process of the algorithm not only provides numerical stability, but also implements the data-driven knot selection. We also compute the maximum candidate of the complexity parameter to facilitate complexity parameter selection. Extensive numerical studies show that the proposed estimator captures spatially inhomogeneous behaviors of data, such as sudden jumps.
