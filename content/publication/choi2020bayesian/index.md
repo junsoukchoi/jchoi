@@ -33,9 +33,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: DOI
-   url: https://proceedings.neurips.cc/paper/2020/hash/4175a4b46a45813fccf4bd34c779d817-Abstract.html
+links:
+- name: DOI
+  url: https://proceedings.neurips.cc/paper/2020/hash/4175a4b46a45813fccf4bd34c779d817-Abstract.html
 
 url_pdf: ''
 url_code: 'https://github.com/junsoukchoi/zipbn'
