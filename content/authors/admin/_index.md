@@ -28,7 +28,10 @@ first_name: Junsouk
 email: ""
 ---
 
-I am a fifth year Ph.D. student in the Department of Statistics at Texas A&M University, where I am fortunate to be advised by Prof. Yang Ni. My research focuses on  the development of statistical and machine learning methods that are motivated by challenges arising in the analysis of modern biomedical, genetic, and omics data such as single-cell multi-omics and microbiome multi-omics data.  My primary methodological interests include causal discovery, probabilistic graphical models, Bayesian modeling, and efficient Bayesian computation.
+I am a fifth year Ph.D. student in the Department of Statistics at Texas A&M University. I am very fortunate to be advised by Prof. Yang Ni. 
+{style="text-align: justify;"}
+
+My research focuses on  the development of statistical and machine learning methods that are motivated by challenges arising in the analysis of modern biomedical, genetic, and omics data such as single-cell multi-omics and microbiome multi-omics data.  My primary methodological interests include causal discovery, probabilistic graphical models, Bayesian modeling, and efficient Bayesian computation.
 {style="text-align: justify;"}
 
 <div align="left">
@@ -36,5 +39,5 @@ I am a fifth year Ph.D. student in the Department of Statistics at Texas A&M Uni
 ### Interests
 - Causal Discovery
 - Probablistic graphical models
-- Bayesian hierarchical Modeling
+- Bayesian Modeling
 - Efficient Bayesian computation
