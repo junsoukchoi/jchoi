@@ -1,8 +1,10 @@
 ---
-title: "An example preprint / working paper"
+title: "Two-Sample Bayesian Causal Directed Acyclic Graphs for Observational Zero-Inflated Count Data"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Robert S. Chapkin
+- Yang Ni
+date: "2022-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,29 +17,30 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Revision submitted to *Journal of the American Statistical Association*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: Observational zero-inflated count data arise in a wide range of areas such as economics, social sciences, and biology. One of the common research questions in these areas is to identify causal relationships by learning the structure of a sparse directed acyclic graph (DAG). While structure learning of DAGs has been an active research area, existing methods do not adequately account for excessive zeros and therefore are not suitable for modeling zero-inflated count data. Moreover, in many scientific settings, it is often interesting to study the differences in the causal networks for data collected from two experimental groups (control vs treatment). To explicitly account for zero-inflation and identify differential causal networks, we propose a novel Bayesian differential zero-inflated negative binomial DAG (DAG0) model. Our main theorem proves that the causal relationships under the proposed DAG0 are fully identifiable for purely observational, cross-sectional data, using a fairly general proof technique that is applicable beyond the proposed model. Bayesian inference based on parallel-tempered Markov chain Monte Carlo is developed to efficiently explore the multi-modal posterior landscape. We demonstrate the utility of the proposed DAG0 by comparing it with state-of-the-art alternative DAG methods using extensive simulations and real-data validation with known causal relationships. An application in single-cell RNA-sequencing dataset generated under two experimental groups finds some interesting results that appear to be consistent with existing knowledge
 
 tags:
-- Source Themes
-featured: false
+- Bayesian network
+- Causal identifiability theory
+- Differential network
+- Parallel tempering
+- Single-cell RNA-sequencing
+featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
+# links:
+# - name: Custom Link
+#   url: http://example.org
+url_pdf: ''
+url_code: 'https://github.com/junsoukchoi/BayesDAG0'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -51,19 +54,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
