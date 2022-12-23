@@ -28,12 +28,13 @@ first_name: Junsouk
 email: ""
 ---
 
-My primary goal as a researcher is to develop statistical and machine learning methodologies that are motivated by challenges arising in the analysis of modern biomedical, genetic, and omics data. To achieve this goal, I strive to develop rigorous theory and computational tools for statistical inference on such datasets. I also enjoy collaborating with domain scientists in wide areas of sciences, including biological, medical and health sciences, as someone who believes that challenging applied problems give birth to improved statistical methods, which in turn promotes scientific discovery.
+I am a fifth year Ph.D. student in the Department of Statistics at Texas A&M University, where I am fortunate to be advised by Prof. Yang Ni. My research focuses on  the development of statistical and machine learning methods that are motivated by challenges arising in the analysis of modern biomedical, genetic, and omics data such as single-cell multi-omics and microbiome multi-omics data.  My primary methodological interests include causal discovery, probabilistic graphical models, Bayesian modeling, and efficient Bayesian computation.
 {style="text-align: justify;"}
 
 <div align="left">
 
 ### Interests
 - Causal Discovery
-- Graphical models
-- Bayesian Modeling
+- Probablistic graphical models
+- Bayesian hierarchical Modeling
+- Efficient Bayesian computation
