@@ -31,7 +31,7 @@ email: ""
 I am a fifth year Ph.D. student in the Department of Statistics at Texas A&M University. I am very fortunate to be advised by Prof. [Yang Ni](https://web.stat.tamu.edu/~yni/). 
 {style="text-align: justify;"}
 
-My research focuses on  the development of statistical and machine learning methods that are motivated by challenges arising in the analysis of modern biomedical, genetic, and omics data such as single-cell multi-omics and microbiome multi-omics data.  My primary methodological interests include causal discovery, probabilistic graphical models, Bayesian modeling, and efficient Bayesian computation.
+My research focuses on  the development of statistical and machine learning methods that are motivated by challenges arising in the analysis of modern biomedical, genetic, and omics data including single-cell multi-omics and microbiome multi-omics data.  My primary methodological interests include causal discovery, probabilistic graphical models, Bayesian hierarchical modeling, and efficient Bayesian computation.
 {style="text-align: justify;"}
 
 <div align="left">
