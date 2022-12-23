@@ -38,6 +38,6 @@ My research focuses on  the development of statistical and machine learning meth
 
 ### Interests
 - Causal Discovery
-- Probablistic graphical models
+- Probablistic Graphical Models
 - Bayesian Modeling
-- Efficient Bayesian computation
+- Efficient Bayesian Computation
