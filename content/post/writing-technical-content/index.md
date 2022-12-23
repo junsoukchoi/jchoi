@@ -1,6 +1,5 @@
 ---
-title: STAT 302: Statistical Methods *(Summer 2022)*
-date: ""
+title: STAT 302 - Statistical Methods *(Summer 2022)*
 math: true
 image:
   placement: 2
