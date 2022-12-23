@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Revision submitted to *Journal of the American Statistical Association*. <br\> **[Student paper award winner of the ASA Section on Bayesian
+publication: "Revision submitted to *Journal of the American Statistical Association*. <br/> **[Student paper award winner of the ASA Section on Bayesian
 Statistical Science (SBSS)]**"
 publication_short: ""
 
