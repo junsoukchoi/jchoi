@@ -22,7 +22,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Advances in Neural Information Processing Systems (NeurIPS 2020)  33*, 5887-5897. <br/> **[Spotlight presentation (385 out of 9454, acceptance rate 4\%)]**
+publication: In *Advances in Neural Information Processing Systems (NeurIPS 2020)  33*, 5887-5897
 publication_short: In *Advances in Neural Information Processing Systems (NeurIPS 2020)  33*, 5887-5897. <br/> **[Spotlight presentation (385 out of 9454, acceptance rate 4\%)]**
 
 abstract: Multivariate zero-inflated count data arise in a wide range of areas such as economics, social sciences, and biology. To infer causal relationships in zero-inflated count data, we propose a new zero-inflated Poisson Bayesian network (ZIPBN) model. We show that the proposed ZIPBN is identifiable with cross-sectional data. The proof is based on the well-known characterization of Markov equivalence class which is applicable to other distribution families. For causal structural learning, we introduce a fully Bayesian inference approach which exploits the parallel tempering Markov chain Monte Carlo algorithm to efficiently explore the multi-modal network space. We demonstrate the utility of the proposed ZIPBN in causal discoveries for zero-inflated count data by simulation studies with comparison to alternative Bayesian network methods. Additionally, real single-cell RNA-sequencing data with known causal relationships will be used to assess the capability of ZIPBN for discovering causal relationships in real-world problems.
