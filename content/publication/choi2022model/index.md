@@ -29,11 +29,11 @@ tags:
 - Single-cell RNA-sequencing
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: R package
+  url: 'https://github.com/junsoukchoi/ZiGDAG'
 url_pdf: ''
-url_code: 'https://github.com/junsoukchoi/ZiGDAG'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
