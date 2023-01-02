@@ -33,12 +33,12 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: R package
+  url: https://github.com/junsoukchoi/zipbn
 
 url_pdf: 'https://proceedings.neurips.cc/paper/2020/hash/4175a4b46a45813fccf4bd34c779d817-Abstract.html'
-url_code: 'https://github.com/junsoukchoi/zipbn'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
