@@ -30,11 +30,11 @@ tags:
 - Single-cell RNA-sequencing
 featured: true
 
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: R package
+  url: 'https://github.com/junsoukchoi/BayesDAG0'
 url_pdf: ''
-url_code: 'https://github.com/junsoukchoi/BayesDAG0'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
